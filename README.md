@@ -56,8 +56,8 @@ Target: churn
 
 1. Clone the Repo
 
-git clone https://github.com/YourUsername/banking-churn-prediction.git
-cd banking-churn-prediction
+git clone https://github.com/Nonny-123/Banking-Customer-Churn.git
+cd Banking-Customer-Churn
 
 2. Create a Virtual Environment and Install Dependencies
 
